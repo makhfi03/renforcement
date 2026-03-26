@@ -9,6 +9,6 @@
     <h1>Test</h1>
 
 
-<script src="renforcement/s1/S-Challenge 4.js"></script>
+<script src="renforcement/s1/mardi/R-Challenge 1.js"></script>
 </body>
 </html>
